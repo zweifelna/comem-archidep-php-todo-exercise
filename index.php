@@ -1,8 +1,8 @@
 <?php
 
-define('BASE_URL', './index.php');
+define('BASE_URL', '/');
 define('DB_USER', 'todolist');
-define('DB_PASS', 'chAngeMeN0w');
+define('DB_PASS', 'rootroot');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
@@ -164,3 +164,4 @@ $items = $db->query($selectQuery);
 
   </body>
 </html>
+
